@@ -86,15 +86,15 @@ Using file: Iowa_Liquor_Preparation.ipynb
 
 Using file: Iowa_Liquor_RFM_CustomerSegmentation.ipynb  
 
-- 1. Read Summary Dataset  
+- Task 1. Read Summary Dataset  
 
-- 2. Calculate RFM  
+- Task 2. Calculate RFM  
 
-- 3. RFM Data Preparation  
+- Task 3. RFM Data Preparation  
 
-- 4. Customer Segmentation using Machine Learning  
+- Task 4. Customer Segmentation using Machine Learning  
 
-- 5. Conclusion  
+- Task 5. Conclusion  
 
 ### **III. Sales Analysis**  
 
@@ -144,10 +144,11 @@ Using file: Iowa_Liquor_Analyze.ipynb
 
     - Question 16: Is profit affected by geographic location?  
 
+- Conclusion
+
 ### **IV. Dashboard**  
 
 Using file: IowaLiquor2023_Dashboard.pbix  
 
 
-
-### `💭Thank you for reading!!!###`
+#### `💭Thank you for reading!!!`
