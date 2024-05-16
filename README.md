@@ -1,3 +1,8 @@
+# **Iowa Liquor Sales Analysis & Customer Segmentaion 2023**
+![Image](https://fare.org.au/wp-content/uploads/dt-Alcohol-too-easy.jpg)
+
+
+
 ## **🔍Project Overview**  
 
 - This is a project based on wholesale liquor sales data for the state of Iowa in the United States  with more than 2.6 million transactions in 2023. The Iowa government purchases liquor from suppliers and then distributes it to all retail or wholesale entities in the state. As a data analyst, I see this as a business operation issue for the Iowa state government to carry out the entire project.  
@@ -5,6 +10,7 @@
 - This project focuses on in-depth analysis of the Iowa wholesale liquor market, providing insights into purchasing trends, customer segments, and sales performance. This project aims to help the Iowa state government in particular make data-driven decisions and optimize its business strategy. At the same time, it can also be considered a sample analysis for individuals or businesses involved in the alcohol industry for their own business purposes.  
 
 - You can view and download the raw data for this project at [Website](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/about_data).  
+
 
 
 ## **📌Business Goal**
@@ -18,6 +24,7 @@
 - Provide market insights to support informed business decisions.  
 
 
+
 ## **🗂Work Scope**
 
 - Gather and process Iowa wholesale liquor sales data from the official [Website](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/about_data).  
@@ -27,6 +34,7 @@
 - Create visualizations and reports to present the results.  
 
 - Analyze market trends and make recommendations.  
+
 
 
 ## **💡Domain Knowledge**
@@ -51,6 +59,7 @@ RFM Customer Segmentation helps businesses better understand their customers, ta
 K-Means is a clustering algorithm used for partitioning a dataset into a specified number of clusters based on the similarity of data points. When using K-Means with RFM analysis, you are essentially using the three RFM components as features to group similar customers into clusters. The algorithm aims to minimize the variance within each cluster and maximize the variance between clusters.  
 
 
+
 ## **💻Technologies and Tools**  
 
 - Clean data: Using Python’s libraries like Pandas and Numpy.  
@@ -66,13 +75,14 @@ K-Means is a clustering algorithm used for partitioning a dataset into a specifi
 - Insights Presentation: Summarize my findings and insights based on the analysis of the data set.  
 
 
+
 ## **🛠Work Reference**  
 
-#### **I. Data Preparation**  
+### **I. Data Preparation**  
 
 Using file: Iowa_Liquor_Preparation.ipynb
 
-#### **II. Customer Segmentation Analysis**    
+### **II. Customer Segmentation Analysis**    
 
 Using file: Iowa_Liquor_RFM_CustomerSegmentation.ipynb  
 
@@ -86,7 +96,7 @@ Using file: Iowa_Liquor_RFM_CustomerSegmentation.ipynb
 
 - 5. Conclusion  
 
-#### **III. Sales Analysis**  
+### **III. Sales Analysis**  
 
 Using file: Iowa_Liquor_Analyze.ipynb  
 
@@ -134,9 +144,10 @@ Using file: Iowa_Liquor_Analyze.ipynb
 
     - Question 16: Is profit affected by geographic location?  
 
-#### **IV. Dashboard**  
+### **IV. Dashboard**  
 
 Using file: IowaLiquor2023_Dashboard.pbix  
 
 
-`💭Thank you for reading!!!`
+
+### `💭Thank you for reading!!!###`
