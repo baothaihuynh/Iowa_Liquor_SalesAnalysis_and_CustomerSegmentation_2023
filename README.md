@@ -80,11 +80,11 @@ K-Means is a clustering algorithm used for partitioning a dataset into a specifi
 
 ### **I. Data Preparation**  
 
-Using file: Iowa_Liquor_Preparation.ipynb
+Using file: [Iowa_Liquor_Preparation.ipynb](https://github.com/baothaihuynh/Iowa_Liquor_SalesAnalysis_and_CustomerSegmentation_2023/blob/master/Iowa_Liquor_Preparation.ipynb)
 
 ### **II. Customer Segmentation Analysis**    
 
-Using file: Iowa_Liquor_RFM_CustomerSegmentation.ipynb  
+Using file: [Iowa_Liquor_RFM_CustomerSegmentation.ipynb](https://github.com/baothaihuynh/Iowa_Liquor_SalesAnalysis_and_CustomerSegmentation_2023/blob/master/Iowa_Liquor_RFM_CustomerSegmentation.ipynb) 
 
 - Task 1. Read Summary Dataset  
 
@@ -98,7 +98,7 @@ Using file: Iowa_Liquor_RFM_CustomerSegmentation.ipynb
 
 ### **III. Sales Analysis**  
 
-Using file: Iowa_Liquor_Analyze.ipynb  
+Using file: [Iowa_Liquor_Analyze.ipynb](https://github.com/baothaihuynh/Iowa_Liquor_SalesAnalysis_and_CustomerSegmentation_2023/blob/master/Iowa_Liquor_Analyze.ipynb)  
 
 `Case study questions:`  
 
@@ -148,7 +148,7 @@ Using file: Iowa_Liquor_Analyze.ipynb
 
 ### **IV. Dashboard**  
 
-Using file: IowaLiquor2023_Dashboard.pbix  
+Using file: [IowaLiquor2023_Dashboard.pbix](https://github.com/baothaihuynh/Iowa_Liquor_SalesAnalysis_and_CustomerSegmentation_2023/blob/master/IowaLiquor2023_Dashboard.pbix)  
 
 
 #### `💭Thank you for reading!!!`
